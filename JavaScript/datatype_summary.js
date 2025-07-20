@@ -18,3 +18,12 @@ console.log(id === anotherId);
 // Reference type (Non primitive)
 
 // Array, Objects, Functions
+
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubename = 'hiteshchoudharidotcom'
+
+let anothername = myYoutubename
+
+console.log(anothername);
